@@ -1,7 +1,8 @@
-# listas-iteracion-solidity
-Ejemplo de iteración de listas en Solidity optimizando el consumo de GAS
+Título
 
-Creamos una lista de usuarios a través del uso de un mapping con dos objetivos o requerimientos:
+Iteración de LISTAS en SOLIDITY optimizando el CONSUMO DE GAS. Ejemplo de lista de usuarios.
 
-Poder añadir un usuario, borrar un usuario, y retornar todos los usuarios.
-Reducir al máximo el consumo de gas.
+## Ejemplo de una lista de usuarios. Dos objetivos:
+
+1) Creación y eliminación de usuarios, y retorno de todos los usuarios registrados. 
+2) Optimización al máximo del consumo de gas.
