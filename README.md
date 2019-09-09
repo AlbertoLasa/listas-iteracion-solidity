@@ -1,6 +1,4 @@
-Título
-
-Iteración de LISTAS en SOLIDITY optimizando el CONSUMO DE GAS. Ejemplo de lista de usuarios.
+# Iteración de LISTAS en SOLIDITY optimizando el CONSUMO DE GAS. Ejemplo de lista de usuarios.
 
 ## Ejemplo de una lista de usuarios. Dos objetivos:
 
